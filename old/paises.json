@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "id_pais": 1,
+        "nombre_pais": "Espa\u00f1a"
+    },
+    {
+        "id": 2,
+        "id_pais": 2,
+        "nombre_pais": "Francia"
+    },
+    {
+        "id": 3,
+        "id_pais": 3,
+        "nombre_pais": "Italia"
+    },
+    {
+        "id": 4,
+        "id_pais": 4,
+        "nombre_pais": "China"
+    },
+    {
+        "id": 5,
+        "id_pais": 5,
+        "nombre_pais": "Peru"
+    },
+    {
+        "id": 6,
+        "id_pais": 6,
+        "nombre_pais": "Australia"
+    }
+]

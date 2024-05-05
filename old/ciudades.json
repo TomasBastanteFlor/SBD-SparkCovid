@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "ID_ciudad": 1,
+        "nombre_ciudad": "madrid",
+        "coordenadas": "40.4168\u00b0 N, 3.7038\u00b0 W"
+    },
+    {
+        "id": 2,
+        "ID_ciudad": 2,
+        "nombre_ciudad": "paris",
+        "coordenadas": "41.3851\u00b0 N, 2.1734\u00b0 E"
+    },
+    {
+        "id": 3,
+        "ID_ciudad": 3,
+        "nombre_ciudad": "roma",
+        "coordenadas": "39.4699\u00b0 N, 0.3763\u00b0 W"
+    },
+    {
+        "id": 4,
+        "ID_ciudad": 4,
+        "nombre_ciudad": "pekin",
+        "coordenadas": "37.3886\u00b0 N, 5.9821\u00b0 W"
+    },
+    {
+        "id": 5,
+        "ID_ciudad": 5,
+        "nombre_ciudad": "lima",
+        "coordenadas": "43.2630\u00b0 N, 2.9346\u00b0 W"
+    },
+    {
+        "id": 6,
+        "ID_ciudad": 6,
+        "nombre_ciudad": "melburne",
+        "coordenadas": "41.6488\u00b0 N, 0.8891\u00b0 W"
+    }
+]
